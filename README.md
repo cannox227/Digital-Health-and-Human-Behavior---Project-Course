@@ -3,7 +3,7 @@
 ## In a nutshell
 ![logo](logo.jpeg)
 
-In this project the [Fitbit Fitness Tracker Datset](https://www.kaggle.com/datasets/arashnic/fitbit) has been analized in order to extract some information regarding: 
+In this project the [Fitbit Fitness Tracker Dataset](https://www.kaggle.com/datasets/arashnic/fitbit) has been analized in order to extract some information regarding: 
 - Users compliance with [WHO guidelines on physical activity and sedentary behaviour](https://bjsm.bmj.com/content/54/24/1451)
 - Relationship between exercise and sleeping according to this [work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4341978/)
 - Patterns and highlights in most/least sleepy user
